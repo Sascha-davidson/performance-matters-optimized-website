@@ -1,4 +1,4 @@
-> Fork deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/luukbrauckmann/sprint-10-leertaak/blob/main/docs/INSTRUCTIONS.md)
+> Fork deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/Sascha-davidson/performance-matters-optimized-website/blob/main/README.md)
 
 <h1>
   <img src="https://user-images.githubusercontent.com/47314813/223076346-b8c52030-686b-4541-9746-5b5ade5d98db.png" style="height: 1em;">
